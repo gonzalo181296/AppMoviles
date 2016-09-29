@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WalkApp</string>
+    <string name="create_route"> Create Route </string>
+    <string name="pending_route">Pending Routes</string>
+    <string name="invited_route">Invited Routes</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_path">PathActivity</string>
+    <string name="title_activity_my_routes">MyRoutesActivity</string>
+</resources>
